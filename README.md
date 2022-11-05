@@ -1,7 +1,5 @@
 # API_FoodCrops
 
-## **1. About this project**
-
 This project aimed at learning Python and more precisely **object-oriented programming** with the management of classes, attributes, functions...  
 It was also a first introduction to dictionaries.
 This project was done in a school setting with another classmate.  
